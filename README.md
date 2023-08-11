@@ -1,4 +1,4 @@
-# CS5001 Final Project
+# sudoku solver
 ------------------------------------
 
 
